@@ -1,0 +1,7 @@
+{
+  "watch": ["src/server/"],
+  "env":{
+    "MONGO_ATLAS_PW":"admin",
+    "PORT":"4000"
+  }
+}
