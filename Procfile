@@ -1,1 +1,2 @@
-web: npm run dev
+web: npm run client
+api: npm run server
